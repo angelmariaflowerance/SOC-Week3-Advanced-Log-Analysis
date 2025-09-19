@@ -24,5 +24,5 @@ SOC Week 3 assignment deliverables focusing on advanced log analysis, threat int
 - Metasploit Framework
 
 ---
-**Submitted by:** angelmariaflowerance  
+**Submitted by:** Angel MF  
 **Course:** SOC Analyst Training - Week 3
